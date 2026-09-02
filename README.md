@@ -49,7 +49,7 @@ Proyecto de una página web para un restaurante desarrollado utilizando **React*
 
 ## 🎓 Formación
 
-**Técnico en Informática** Intituto Tecnologico Union Panamericana
+**Técnico en Informática** - Intituto Tecnologico Union Panamericana
 
 ## 📫 Contacto
 
