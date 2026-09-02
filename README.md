@@ -43,10 +43,9 @@ Aplicación web desarrollada para gestionar solicitudes de reclutamiento mediant
 📁 [Ver proyecto](./projects/solicitud-reclutamiento)
 
 ### 🍽️ Restaurante — React
-
 Proyecto de una página web para un restaurante desarrollado utilizando **React**, realizado en colaboración con un compañero.
 
-🔗 Proyecto disponible en el repositorio de GitHub del colaborador.
+🔗 [Ver proyecto en GitHub](https://github.com/M3lvycm/ADTR)
 
 ## 🎓 Formación
 
