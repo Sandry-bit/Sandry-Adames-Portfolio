@@ -49,10 +49,7 @@ Proyecto de una página web para un restaurante desarrollado utilizando **React*
 
 ## 🎓 Formación
 
-**Ingeniería de Software**
-Instituto Tecnológico de Santo Domingo (INTEC)
-
-**Técnico en Informática**
+**Técnico en Informática** Intituto Tecnologico Union Panamericana
 
 ## 📫 Contacto
 
