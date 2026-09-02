@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UTESA</title>
+</head>
+<style>
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inlin-block;
+  border: 1px solid rgb(31, 31, 31);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=number], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid  rgb(36, 36, 36);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+textarea {
+  width:100%;
+  height: 10px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid rgb(255, 251, 251);
+  border-radius: 4px;
+  background-color: #ffffff;
+  font-size: 16px;
+  resize: none;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: rgb(0, 0, 0);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+    width: 600px;
+    height: 70px;
+    background-color: #bbb8b8;
+    border-radius: px;
+    padding: 8px;
+    margin: 0 auto;
+}
+.div1 {
+    width: 600px;
+    height: 70px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 0 auto;
+}
+</style>
+<body style="color: rgb(0, 0, 0);">
+    <table>
+      
+      <th>
+        <td><img src="Screenshot_10.png"></td>
+      </th>
+        <th>
+        <td><img src="Screenshot_9.png"></td>
+        </th>
+    </table>
+<div class="DIV1">
+  <form action="Solicitud enviada.html">
+    <label for="fname">Primer nombre</label>
+    <input type="text" id="fname" name="primernombre" placeholder="Favor de escribir su nombre..">
+</div>
+   <div>
+    <label for="lname">Apellido</label>
+    <input type="text" id="lname" name="apellido" placeholder="Favor de escribir su apellido..">
+   </div>
+   <div> 
+   <label for="fname">Edad</label>
+    <input  class="input1" type="text" id="yold" name="Edad" placeholder="Favor de escribir su edad..">
+   </div>
+   <div>
+    <label for="GENERO">Genero</label>
+    <select id="GENERO" name="GENERO">
+    <option value="Genero">Masculino</option>
+    <option value="Genero">Fememino</option>
+    <option value="Genero">Otro...</option>
+</select>
+</div>
+<div>
+    <label for="Cedula">Numero de cedula</label>
+    <input type="number" id="Cedula" name="Cedula" placeholder="Favor de escribir su numero de cedula..">
+</div>
+<div>
+    <label for="fname">Numero telefonico </label>
+    <input type="number" id="telefonico" name="telefonico" placeholder="Favor de escribir su numero telefonico..">
+  </div>
+  <div>
+    <label for="Correo">Correo electronico</label>
+    <input type="text" id="Correo" name="Correo" placeholder="Favor de escribir su correo electronico..">
+    <br>
+    </div>
+    <div>
+<p style="font-size: 18px;"> Por que desea trabajar en esta organización</p> 
+<textarea></textarea>
+</div>
+<div>
+<br>
+<br>
+</div>
+<div>
+   <label for="Familia"> Tienes familiares? </label>
+    <select id="familia" name="familia">
+      <option value="familia">Si</option>
+      <option value="familia">No</option>
+    </select>
+  </div>
+  <div>
+    <label for="familia2"> Cuantos hermanos tienes?</label>
+    <input type="number" id="familia2" name="cuantos hermanos tienes" placeholder="Favor de escribir cuantos hermanos tienes..">
+  </div>
+  <div>
+    <br>
+    <br>
+    <br>
+  </div>
+  <div>
+    Al momento de enviar el formulario se tomara como que ha aceptado las politicas y terminos<br>
+    de la organización. Para ver los terminos seleccione el <a href="termino y condiciones.html">ver mas.</a>
+  </div>
+  <div>
+    <input type="submit" value="Enviar">
+  </form>
+</div>
+
+</body>
+</html>
