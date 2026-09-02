@@ -1,4 +1,4 @@
-# 👨‍💻 Sandry Adames — Portafolio
+# Sandry Adames — Portafolio
 
 ¡Hola! Soy **Sandry Adames**, estudiante de **Desarrollo de Software** con interés en el desarrollo de aplicaciones, automatización y tecnologías web.
 
