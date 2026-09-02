@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Reco</title>
+</head>
+  <body style="background-color:black;color:white"><center><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><font size="9">Reco<br></center><br><br><br><br><br><br><br>
+ <div style="background-color:white;color:black;padding:150px;"><font face="cooper black" size="6"> Recientes.</font>
+<video width="1000" height="900" autoplay muted>
+  <source src="wednes.mp4" type="video/mp4">
+</video>
+<br>
+<p align="right">
+ <a href="Infantilesbew.html"><img src="Flechita.png">
+</body>
+</html>

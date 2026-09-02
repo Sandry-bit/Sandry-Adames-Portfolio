@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Reco</title>
+</head>
+<body>
+<center><h1 style="color:white;background-color:black;"><i> ?????? </i></h1></center>
+  <font size="2" face="verdana"> 
+    <h2> Dark </h2><hr></font>
+  <img src="zxzxz.jpg"> 
+  <p><center><font size="3" face="verdana"> La serie es una especie de rompecabezas que presenta una estructura narrativa compleja. En Winden,<br> un pequeño pueblo alemán, en el que cuatro familias se sumergen en la búsqueda de un niño que ha desaparecido de forma misteriosa.<br> Entonces, descubren que los acontecimientos abarcan diferentes generaciones.</center>
+    <br><br><br><hr><br> <p><font size="5" face="verdana"> Articulos relacionados</font><br><br><br>
+    <table>
+  <tbody>
+    <tr>
+    <td><img src="azx.jpg"></td>
+      <td><img src="xs.jpg"></td>
+    <td><img src="xzx.jpg"></td>
+      
+  </tr>
+    <tr>
+      <td><font size="4" face="verdana"> Stranger Things</font></td>
+      <td><font size="4" face="verdana"> Wednessday</font></td>
+      <td><font size="4" face="verdana"> Lupin</font></td>
+    </tr>
+      </tbody>
+    </table>
+    
+  
+</body>
+</html>

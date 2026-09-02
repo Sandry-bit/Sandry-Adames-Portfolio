@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Editor JavaScript online - www.cubicfactory.com</title>
+</head>
+<body>
+<center><h1 style="color:white;background-color:black;"><i> ?????? </i></h1></center>
+  <font size="2" face="verdana"> 
+    <h2> Clarence </h2><hr></font>
+  <img src=""> 
+  <p><center><font size="3" face="verdana"> La serie se centra en la vida cotidiana de Clarence Wendle , un chico amante de la diversión, y sus mejores amigos: Jeff, que es un chico intelectual y obsesivo y Sumo , un niño pícaro que a menudo utiliza medidas extremas y descabelladas en la resolución de problemas.<br><br>
+
+    Clarence vive con su madre Mary y su novio Chad en la ficticia ciudad de Aberdale en Arizona, cerca de Phoenix. Cada episodio se centra en las situaciones de la vida cotidiana y los problemas que Clarence junto a sus amigos enfrentan y como estas aventuras cotidianas son experimentadas y encaradas con su muy especial e inocente perspectiva de niños..<br><br>
+    Clarence, es una de las mejores series
+para pasar el rato y reirse un poco, con
+personajes carismaticos los cuales gracias a su imaginacion y personalidad cautivan la atención del publico.</font></center>
+    <br><br><br><hr><br> <p><font size="5" face="verdana"> Articulos relacionados</font><br><br><br>
+    <table>
+  <tbody>
+    <tr>
+    <td><img src="elincreiblemundodegumbal.jpg"></td>
+      <td><img src="saf.jpeg"></td>
+    <td><img src="PeppaPig.png"></td>
+      
+  </tr>
+    <tr>
+      <td><font size="4" face="verdana">El increible mundo de Gumbal</font></td>
+      <td><font size="4" face="verdana"> Un show mas</font></td>
+      <td><font size="4" face="verdana"> Peppa pig</font></td>
+    </tr>
+      </tbody>
+    </table>
+    
+  
+</body>
+</html>
